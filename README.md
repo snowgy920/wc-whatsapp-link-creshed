@@ -1,1 +1,3 @@
 # wc-whatsapp-link-creshed
+- Use custom login / register link
+- Change whatsapp link format as https://wa.me/...
